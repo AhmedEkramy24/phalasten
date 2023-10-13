@@ -1,0 +1,21 @@
+body {
+    background-color: #282828;
+}
+
+.ph {
+    width: 1300px;
+    background-color: #333;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: #ddd solid 5px;
+    border-radius: 16px;
+    overflow: hidden;
+}
+
+.ph p {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    width: 50%;
+}
